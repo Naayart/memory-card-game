@@ -1,16 +1,40 @@
-# React + Vite
+# 🎴 Memory Card Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fun and interactive Memory Card Game built with React! Test your memory by matching pairs of emojis while racing against the clock.
 
-Currently, two official plugins are available:
+![Memory Card Game Screenshot](screenshot.png) <!-- You'll add this later -->
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## React Compiler
+- 🎮 **Multiple Difficulties**: Easy (6 pairs), Medium (8 pairs), Hard (12 pairs)
+- ⏱️ **Timer**: Tracks how fast you complete each game
+- 🏆 **Best Scores**: Saves your best times for each difficulty
+- 🎨 **Multiple Themes**: Light, Dark, and Ocean themes
+- 🔊 **Sound Effects**: Audio feedback for matches and wins
+- 🎉 **Confetti Celebration**: Visual celebration when you win
+- 📊 **Statistics Dashboard**: Track your total games and average moves
+- 📜 **Move History**: See your last 10 games
+- 💾 **Persistent Storage**: All data saved in your browser
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+[Add your deployed link here once you deploy]
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Built With
+
+- React.js
+- CSS3 with animations
+- LocalStorage API
+- Canvas Confetti
+
+## 📋 Prerequisites
+
+Before you begin, ensure you have installed:
+- Node.js (v14 or higher)
+- npm or yarn
+
+## 🔧 Installation
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/memory-card-game.git
