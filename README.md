@@ -2,7 +2,8 @@
 
 A fun and interactive Memory Card Game built with React! Test your memory by matching pairs of emojis while racing against the clock.
 
-![Memory Card Game Screenshot](screenshot.png) <!-- You'll add this later -->
+![Memory Card Game Screenshot] 
+<img width="602" height="579" alt="Memory card game" src="https://github.com/user-attachments/assets/67392051-6394-4ca7-8f22-2c12e932fc05" />
 
 ## ✨ Features
 
@@ -18,7 +19,7 @@ A fun and interactive Memory Card Game built with React! Test your memory by mat
 
 ## 🚀 Live Demo
 
-[Add your deployed link here once you deploy]
+https://memory-card-game-rust-two.vercel.app/
 
 ## 🛠️ Built With
 
@@ -37,4 +38,4 @@ Before you begin, ensure you have installed:
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/YOUR_USERNAME/memory-card-game.git
+   git clone https://github.com/naayart/memory-card-game.git
